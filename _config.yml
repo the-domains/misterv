@@ -1,0 +1,28 @@
+name: Kham Vue
+favicon: null
+layout_spectrum: 0.7971060855779797
+typography_spectrum: 0.04799594450742006
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.4590280835982412
+  lightness: 0.051719197537750006
+  saturation: 0.4942953840363771
+  rhythmicContrast: 0.12085750605911016
+purpose: []
